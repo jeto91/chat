@@ -1,0 +1,8 @@
+Django>=4.0
+djangorestframework
+channels
+channels_redis
+gunicorn
+uvicorn
+psycopg2-binary
+python-dotenv
